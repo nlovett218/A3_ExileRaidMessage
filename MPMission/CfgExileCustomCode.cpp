@@ -1,0 +1,4 @@
+//Raid messages
+ExileClient_action_stealFlag_completed = "overrides\ExileClient_action_stealFlag_completed.sqf";
+ExileServer_system_territory_network_flagStolenRequest = "overrides\ExileServer_system_territory_network_flagStolenRequest.sqf";
+ExileServer_system_territory_database_load = "overrides\ExileServer_system_territory_database_load.sqf";
