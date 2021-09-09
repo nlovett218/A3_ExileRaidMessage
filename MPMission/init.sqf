@@ -1,5 +1,5 @@
 [] execVM "custom\initCustomFile.sqf";
-[
+
 
 // [original string, char to replace, replacement char] call BIS_fnc_replaceString
 BIS_fnc_replaceString = 
