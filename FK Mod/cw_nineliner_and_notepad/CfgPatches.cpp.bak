@@ -1,0 +1,12 @@
+class CfgPatches
+{
+	class CW_9LINERS_AND_NOTEPAD {
+		author = "Chief Wiggum";
+		requiredVersion = 1;
+		requiredAddons[] = {
+
+		};
+		units[] = {};
+		weapons[] = {};
+	};
+};
